@@ -1,0 +1,10 @@
+# Rust build
+/target/
+
+# Visual Studio cache
+.vs/
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.json
